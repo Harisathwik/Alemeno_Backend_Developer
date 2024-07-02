@@ -1,0 +1,6 @@
+Django
+streamlit
+opencv-python-headless
+Pillow
+numpy
+requests
